@@ -1,0 +1,6 @@
+#Liste de dossiers à ignorer
+/node_modules
+/src/img
+
+#Liste de fichiers à ignorer
+index.js
